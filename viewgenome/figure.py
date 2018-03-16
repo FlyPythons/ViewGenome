@@ -83,6 +83,6 @@ class Figure(object):
         for g in genomes:
             self.svg.add(g)
 
-        self.svg.saveas(filename)
+        self.svg.saveas(filename, pretty=True)
 
 
