@@ -1,2 +1,2 @@
 # ViewGenome
-A python module to visualize genome
+A python module to view genome
